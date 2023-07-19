@@ -1,0 +1,33 @@
+body {
+  font-family: Helvetica;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 50px;
+}
+
+
+th {
+  text-align: left;
+}
+
+#leftbox {
+  float:left;
+  padding: 10px;
+  width:25%;
+}
+
+#middlebox{
+  float:left;
+  width:2%;
+}
+
+#rightbox{
+  float:right;
+  padding: 10px;
+  text-align: top;
+  width:60%;
+}
+
+.redArrow {
+ color: #FF0000;
+}
